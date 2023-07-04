@@ -1,8 +1,8 @@
 package main
 
 import (
-	"csgo/Base/calc"
 	"fmt"
+	"go-study/Base/calc"
 )
 
 func main() {

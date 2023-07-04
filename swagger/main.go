@@ -1,10 +1,10 @@
 package main
 
 import (
-	"csgo/MID/swagger/docs"
 	"github.com/gin-gonic/gin"
 	swaggerfiles "github.com/swaggo/files"
 	ginSwagger "github.com/swaggo/gin-swagger"
+	"go-study/swagger/docs"
 	"net/http"
 )
 

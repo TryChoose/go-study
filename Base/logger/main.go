@@ -1,7 +1,7 @@
 package main
 
 import (
-	"csgo/Base/myLogger"
+	"go-study/Base/myLogger"
 )
 
 func main() {

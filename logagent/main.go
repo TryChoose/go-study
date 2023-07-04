@@ -1,10 +1,10 @@
 package main
 
 import (
-	"csgo/MID/logagent/config"
-	"csgo/MID/logagent/etcd"
-	"csgo/MID/logagent/kafka"
 	"fmt"
+	"go-study/logagent/config"
+	"go-study/logagent/etcd"
+	"go-study/logagent/kafka"
 	"gopkg.in/ini.v1"
 	"time"
 )
