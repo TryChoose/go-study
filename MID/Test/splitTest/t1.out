@@ -1,0 +1,4 @@
+mode: set
+MID/Test/splitTest/Demo01SplitTest.go:7.45,10.17 3 1
+MID/Test/splitTest/Demo01SplitTest.go:15.2,16.12 2 1
+MID/Test/splitTest/Demo01SplitTest.go:10.17,14.3 3 1
